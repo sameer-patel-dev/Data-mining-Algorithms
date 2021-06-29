@@ -1,5 +1,5 @@
 # Data-Mining-Algorithms
-### Predicting Movie success rate using different Data mining Algorithms
+### Predicting Movie Success Rate using different Data mining Algorithms
 ## Data Mining Algorithms used :
 - K-Nearest Neighbours
 - Support Vector Machines
